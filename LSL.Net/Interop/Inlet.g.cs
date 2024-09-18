@@ -1,4 +1,7 @@
 using System.Runtime.InteropServices;
+// ReSharper disable CommentTypo
+// ReSharper disable IdentifierTypo
+// ReSharper disable StringLiteralTypo
 
 namespace LSL.Net.Interop;
 
